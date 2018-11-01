@@ -8,4 +8,3 @@ ACP <- function(DATAACT, DATASUP = NULL, VARACT, VARSUP = NULL,ID = NULL, IDSUP 
            Si ce n'est pas le cas, il vous est conseillé de vous orienter vers d'autres méthodes comme l'ACM ou l'AFDM.")
     }
   }
-}
